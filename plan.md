@@ -62,3 +62,4 @@ User → Review → Professor → Department → University
 3. **Seeding data** — site is useless empty; scrape or manually seed from YÖK's public professor database
 4. **Turkish full-text search** — Turkish is agglutinative; a basic `LIKE` query won't work — use Meilisearch or PostgreSQL full-text search with Turkish config
 5. **Mobile-first** — Turkish students primarily use mobile
+
